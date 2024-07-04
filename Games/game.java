@@ -1,3 +1,5 @@
+
+package java.Games;
 public class game
 {
     public void fizzbuss(int n)

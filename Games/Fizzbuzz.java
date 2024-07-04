@@ -1,3 +1,5 @@
+package java.Games;
+
 public class Fizzbuzz
 {
 public static void main(String k[])
